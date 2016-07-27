@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//author qiyong
 static int x; // static global variable
 
 void print_num(void) { //static funciton
